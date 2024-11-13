@@ -1,0 +1,14 @@
+.date {
+
+    width: 80px;
+    height: 25px;
+    border-color: rgb(83, 164, 251);
+    text-align: center;
+}
+
+.btn:disabled {
+    background-color: rgb(234, 85, 85);
+    color: white
+        /* Change to your desired red color */
+        /* Add any additional styles you want for the disabled state */
+}
